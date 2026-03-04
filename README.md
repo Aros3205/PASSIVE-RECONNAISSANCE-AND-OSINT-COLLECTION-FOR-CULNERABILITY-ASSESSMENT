@@ -123,7 +123,7 @@ whois targetdomain.com
 
 ### Screenshot
 
-(Insert WHOIS screenshot
+![OSINT Framework Screenshot](kali-whois.png)
 
 
 
@@ -153,7 +153,7 @@ host targetdomain.com
 
 ### Screenshot
 
-(Insert Host command screenshot)
+![OSINT Framework Screenshot](kali-host.png)
 
 
 
@@ -186,7 +186,7 @@ dig targetdomain.com
 
 ### Screenshot
 
-(Insert Dig screenshot)
+![OSINT Framework Screenshot](dig-recon.png)
 
 
 # 5. DNSrecon – Domain Record Enumeration
@@ -212,7 +212,7 @@ DMARC and TXT records often reveal email authentication mechanisms, which can in
 
 ### Screenshot
 
-(Insert UnRecon screenshot
+![OSINT Framework Screenshot](dns-recon.png)
 
 
 # 6. SpiderFoot – Automated OSINT Aggregation
@@ -242,7 +242,7 @@ SpiderFoot consolidates data from multiple modules, providing a broader intellig
 ### Screenshot
 
 
-(Insert SpiderFoot screenshot)
+![OSINT Framework Screenshot](kali-spiderfoot.png)
 
 
 # 7. Recon-ng – OSINT Reconnaissance Framework
@@ -273,7 +273,7 @@ Recon-ng helps organize reconnaissance activities and automate data collection w
 ### Screenshot
 
 
-(Insert Recon-ng screenshot)
+![OSINT Framework Screenshot](recon-ng.png)
 
 
 
