@@ -245,6 +245,9 @@ SpiderFoot consolidates data from multiple modules, providing a broader intellig
 ![OSINT Framework Screenshot](spider-foot.png)
 
 
+![OSINT Framework Screenshot](spiderfoot-scan.png)
+
+
 # 7. Recon-ng – OSINT Reconnaissance Framework
 
 
