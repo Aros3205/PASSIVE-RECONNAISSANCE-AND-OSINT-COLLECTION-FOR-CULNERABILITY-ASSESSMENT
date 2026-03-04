@@ -1,7 +1,7 @@
 # PASSIVE-RECONNAISSANCE-AND-OSINT-COLLECTION-FOR-VULNERABILITY-ASSESSMENT
 
 
-Overview
+# Overview
 
 This project demonstrates the passive reconnaissance phase of a vulnerability assessment, focusing on collecting publicly available intelligence about a target domain without directly interacting with the target infrastructure.
 
@@ -9,17 +9,17 @@ Passive reconnaissance is a critical stage in security assessments because it al
 
 The objective of this exercise was to perform structured OSINT collection and DNS intelligence analysis using industry-standard reconnaissance tools available in Kali Linux.
 
-The project focuses on identifying:
+# The project focuses on identifying:
 
-Domain registration intelligence
+~ Domain registration intelligence
 
-DNS infrastructure records
+~ DNS infrastructure records
 
-Mail server configuration
+~ Mail server configuration
 
-Hosting and IP associations
+~ Hosting and IP associations
 
-Publicly exposed domain metadata
+~ Publicly exposed domain metadata
 
 The collected intelligence provides foundational insight for later stages of vulnerability analysis and attack surface mapping.
 
