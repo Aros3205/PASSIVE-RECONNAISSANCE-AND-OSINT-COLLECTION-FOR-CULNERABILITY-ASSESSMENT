@@ -81,7 +81,7 @@ Using the framework allows analysts to identify relevant intelligence sources be
 
 ### Screenshot
 
-![OSINT Framework Screenshot](Screenshot 2026-03-03 012030.png)
+![OSINT Framework Screenshot](osint-framework.png)
 
 
 
