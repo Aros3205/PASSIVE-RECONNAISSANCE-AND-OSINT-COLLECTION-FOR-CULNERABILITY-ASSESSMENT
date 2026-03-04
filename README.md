@@ -323,3 +323,6 @@ This intelligence forms the foundation for deeper vulnerability analysis, asset 
 
 
 This project was conducted strictly for educational and professional development purposes within a controlled lab environment. No unauthorized reconnaissance or scanning activities were performed against systems without permission
+
+
+Note: The IP addresses and infrastructure details visible in the screenshots are publicly available information obtained through passive reconnaissance techniques such as DNS lookups and OSINT tools. No active scanning or direct interaction with the target infrastructure was performed. The information displayed reflects general domain-related data that can be retrieved from publicly accessible sources.
