@@ -11,15 +11,15 @@ The objective of this exercise was to perform structured OSINT collection and DN
 
 # The project focuses on identifying:
 
-~ Domain registration intelligence
+- Domain registration intelligence
 
-~ DNS infrastructure records
+- DNS infrastructure records
 
-~ Mail server configuration
+- Mail server configuration
 
-~ Hosting and IP associations
+- Hosting and IP associations
 
-~ Publicly exposed domain metadata
+- Publicly exposed domain metadata
 
 The collected intelligence provides foundational insight for later stages of vulnerability analysis and attack surface mapping.
 
