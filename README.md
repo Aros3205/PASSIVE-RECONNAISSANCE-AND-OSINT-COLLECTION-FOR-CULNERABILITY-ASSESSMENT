@@ -24,7 +24,7 @@ The objective of this exercise was to perform structured OSINT collection and DN
 - Hosting and IP associations
 
 - Publicly exposed domain metadata
-- 
+  
 
 The collected intelligence provides foundational insight for later stages of vulnerability analysis and attack surface mapping.
 
@@ -42,7 +42,7 @@ The collected intelligence provides foundational insight for later stages of vul
 - Infrastructure and mail server identification
 
 - Automated reconnaissance aggregation
-- 
+  
 
 All activities were conducted using passive reconnaissance techniques, meaning no direct interaction with the target infrastructure occurred.
 
@@ -74,7 +74,7 @@ It provides structured access to multiple intelligence categories including:
 - Public breach data
 
 - Certificate transparency logs
-- 
+  
 
 Using the framework allows analysts to identify relevant intelligence sources before performing deeper technical enumeration.
 
@@ -105,7 +105,7 @@ WHOIS provides key information about domain ownership and registration records i
 - Domain status
 
 - Name servers
-- 
+  
 
 This information helps analysts determine:
 
@@ -143,7 +143,7 @@ This tool provides quick visibility into:
 - DNS hosting providers
 
 - Name server information
-- 
+
 
 DNS record identification is important because it reveals supporting infrastructure used by the organization.
 
@@ -234,7 +234,7 @@ It is used to perform comprehensive intelligence collection including:
 - Subdomain discovery
 
 - Network exposure indicators
-- 
+  
 
 SpiderFoot consolidates data from multiple modules, providing a broader intelligence view of the target's digital footprint.
 
@@ -265,7 +265,7 @@ It provides a command-driven environment similar to penetration testing framewor
 - Infrastructure mapping
 
 - Data correlation
-- 
+  
 
 Recon-ng helps organize reconnaissance activities and automate data collection workflows.
 
@@ -311,7 +311,7 @@ Passive reconnaissance plays an important role in the vulnerability management l
 - Understand domain ownership and hosting relationships
 
 - Detect misconfigured DNS or email security policies
-- 
+  
 
 This intelligence forms the foundation for deeper vulnerability analysis, asset discovery, and risk assessment.
 
